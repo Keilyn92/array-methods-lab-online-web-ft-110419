@@ -1,5 +1,4 @@
 
- 
 dogs = ["pittbull","collie","mutt"]
 dog.include?("Bassett")
 
